@@ -1,0 +1,6 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T001|2024-12-01|P102|Mouse|5|801.0|C008|South|laptops|Apple|4.7|True
+T002|2024-12-02|P101|Laptop|2|59328.0|C008|North|laptops|Apple|4.8|True
+T003|2024-12-03|P107|USB Cable|9|250.0|C027|East|accessories|Generic|4.2|True
+T004|2024-12-04|P110|Laptop Charger|2|1593.0|C022|South|accessories|Samsung|4.5|True
+T005|2024-12-05|P109|Wireless Mouse|7|1771.0|C024||None|None|None|False
