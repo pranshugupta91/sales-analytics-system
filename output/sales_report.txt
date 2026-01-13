@@ -1,0 +1,63 @@
+==================================================
+        SALES ANALYTICS REPORT
+      Generated: 2024-12-18 14:30:22
+      Records Processed: 92
+==================================================
+
+OVERALL SUMMARY
+--------------------------------------------------
+Total Revenue:        ₹15,45,000.50
+Total Transactions:   92
+Average Order Value:  ₹16,793.49
+Date Range:           2024-12-01 to 2024-12-31
+
+REGION-WISE PERFORMANCE
+--------------------------------------------------
+Region    Sales         % of Total  Transactions
+North     ₹4,50,200.00  29.15%      25
+South     ₹3,80,450.50  24.62%      22
+West      ₹3,25,100.00  21.04%      23
+East      ₹2,89,250.00  18.74%      22
+
+TOP 5 PRODUCTS
+--------------------------------------------------
+Rank  Product Name        Quantity  Revenue
+1     Laptop              45        ₹22,50,000.00
+2     Wireless Mouse      38        ₹19,000.00
+3     Monitor             29        ₹4,85,500.00
+4     Keyboard            24        ₹38,200.00
+5     Webcam              21        ₹78,400.00
+
+TOP 5 CUSTOMERS
+--------------------------------------------------
+Rank  Customer  Total Spent  Orders
+1     C004      ₹3,85,000.00  5
+2     C008      ₹3,20,500.00  4
+3     C010      ₹2,98,750.00  6
+4     C017      ₹2,45,300.00  3
+5     C003      ₹1,98,600.00  4
+
+DAILY SALES TREND
+--------------------------------------------------
+Date         Revenue        Transactions  Customers
+2024-12-01   ₹1,25,000.00   8             6
+2024-12-02   ₹1,40,500.00   7             5
+2024-12-03   ₹1,18,200.00   6             5
+...
+2024-12-31   ₹95,400.00     4             4
+
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------------------------
+Best Selling Day: 2024-12-15 (₹1,85,000.00, 12 transactions)
+
+Low Performing Products:
+- Webcam (Qty: 4, Revenue: ₹12,000.00)
+- Headphones (Qty: 7, Revenue: ₹10,500.00)
+
+API ENRICHMENT SUMMARY
+--------------------------------------------------
+Total Records Enriched: 85
+Success Rate: 92.39%
+Products Not Enriched:
+- P109 (Wireless Mouse)
+- P115 (USB Hub)
